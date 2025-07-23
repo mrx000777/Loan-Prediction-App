@@ -5,9 +5,10 @@ This project is a **Machine Learning-based web application** that predicts wheth
 ---
 
 ## 🚀 Demo
-
-🔗 [Live Demo Link (if deployed)](https://your-deployment-url.com)  
+link deployed)]((https://loan-prediction-app-8wnw.onrender.com)>
+)  
 📸 Screenshots included below (optional if you upload)
+<img width="585" height="260" alt="Screenshot 2025-07-23 195300" src="https://github.com/user-attachments/assets/34d9f0e2-49a1-4523-9f2f-02269cf755ca" />
 
 ---
 
