@@ -9,6 +9,7 @@ link deployed)]((https://loan-prediction-app-8wnw.onrender.com)>
 )  
 📸 Screenshots included below (optional if you upload)
 <img width="585" height="260" alt="Screenshot 2025-07-23 195300" src="https://github.com/user-attachments/assets/34d9f0e2-49a1-4523-9f2f-02269cf755ca" />
+<img width="830" height="838" alt="Screenshot 2025-07-23 195212" src="https://github.com/user-attachments/assets/c064cccc-2caf-4820-9f15-b83bfb252c24" />
 
 ---
 
